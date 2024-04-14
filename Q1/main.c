@@ -17,7 +17,7 @@ int main(){
          num *= i;
         };
         
-        printf("factorial is" , num);
+        printf("factorial is %d" , num);
     }
      
     return 0;
